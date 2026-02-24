@@ -13,7 +13,7 @@ namespace CosmosLUNA
         {
             Sys.FileSystem.VFS.VFSManager.RegisterVFS(fs);
             Console.Clear();
-            Console.WriteLine("CosmosLUNA [Version 0.1]");
+            Console.WriteLine("CosmosLUNA [Version 0.1.1]");
             Console.WriteLine("2026 Pavel Levin");
         }
 
@@ -37,6 +37,10 @@ namespace CosmosLUNA
 
                 case "shutdown":
                     Cosmos.System.Power.Shutdown(); 
+                break;
+
+                case "shutdown /r":
+                    Cosmos.System.Power.Reboot();
                 break;
 
                 case "cl_fsad":
