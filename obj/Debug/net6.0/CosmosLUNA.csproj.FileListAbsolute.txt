@@ -1,0 +1,12 @@
+E:\CosmosLUNA\CosmosLUNA\bin\Debug\net6.0\CosmosLUNA.deps.json
+E:\CosmosLUNA\CosmosLUNA\bin\Debug\net6.0\CosmosLUNA.dll
+E:\CosmosLUNA\CosmosLUNA\bin\Debug\net6.0\CosmosLUNA.pdb
+E:\CosmosLUNA\CosmosLUNA\obj\Debug\net6.0\CosmosLUNA.csproj.AssemblyReference.cache
+E:\CosmosLUNA\CosmosLUNA\obj\Debug\net6.0\CosmosLUNA.GeneratedMSBuildEditorConfig.editorconfig
+E:\CosmosLUNA\CosmosLUNA\obj\Debug\net6.0\CosmosLUNA.AssemblyInfoInputs.cache
+E:\CosmosLUNA\CosmosLUNA\obj\Debug\net6.0\CosmosLUNA.AssemblyInfo.cs
+E:\CosmosLUNA\CosmosLUNA\obj\Debug\net6.0\CosmosLUNA.csproj.CoreCompileInputs.cache
+E:\CosmosLUNA\CosmosLUNA\obj\Debug\net6.0\CosmosLUNA.dll
+E:\CosmosLUNA\CosmosLUNA\obj\Debug\net6.0\refint\CosmosLUNA.dll
+E:\CosmosLUNA\CosmosLUNA\obj\Debug\net6.0\CosmosLUNA.pdb
+E:\CosmosLUNA\CosmosLUNA\obj\Debug\net6.0\ref\CosmosLUNA.dll
